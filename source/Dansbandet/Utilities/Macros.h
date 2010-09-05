@@ -35,15 +35,6 @@
 // To enable a feature define the following:
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // Available features:
-// USE_NETWORK - Enables network in Application
-// USE_EDITOR - Enables editor
-// USE_GUI - Enables gui
-// USE_AI - Enables the AI in the logic.
-// AI_DRAW_MAP_POTENTIAL_FIELD
-// AI_DRAW_PLAYER_POTENTIAL_FIELD
-// AI_DRAW_AGENT_GOALS
-// AI_DRAW_UNIT_SIZE_BLOCKS
-// AI_DRAW_UNIT_ORIGIN_LINES
 //---------------------------------------------------------------------
 #include "../BuildInfo.h"
 
